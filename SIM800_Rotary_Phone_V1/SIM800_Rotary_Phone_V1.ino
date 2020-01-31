@@ -1,3 +1,11 @@
+/*
+Code by: Tal Ofer (talofer99@hotmail.com)
+
+For more info - 
+https://create.arduino.cc/projecthub/talofer99/taking-a-rotary-dial-phone-into-the-future-c974b2
+
+*/
+
 #define I2SEXISTS true
 
 #include <wifiTool.h>
